@@ -1,0 +1,199 @@
+/**
+ * Assignment 1, COSC212
+ * Henry Morrison-Jones, 10/08/17
+ * CSS Code for styling Lilliput Libraries Web Application
+ */
+
+/*
+    Main body
+ */
+body{
+    margin: 0;
+    color: inherit;
+    background-color: snow;
+}
+/*
+    'Lilliput' heading
+ */
+
+h1{
+    text-align: center;
+    font-family: "Helvetica", sans-serif;
+    color: midnightblue;
+    background-color: inherit;
+}
+
+/*
+    Each navigation space
+ */
+nav li{
+    float: left;
+    border-right: solid white 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: "Helvetica", sans-serif;
+    margin-top: 0;
+    padding-top: 8px; /*helps vertically center navigation*/
+    height: 22px;
+    color: white;
+    background-color: inherit;
+}
+
+/*
+    Style for when navigation spaces are hovered on
+ */
+nav li:hover{
+    background-color: deeppink;
+    color: inherit;
+}
+
+/*
+    Navigation container
+ */
+nav{
+    background-color: midnightblue;
+    color: inherit;
+    margin: 0;
+    height: 30px;
+}
+
+/*
+    Unordered list in Nav
+ */
+nav ul{
+    margin: 0; /*no margin*/
+    list-style: none;
+    height: 100%;
+    padding: 0;
+}
+
+/*
+    Specifies styling for visited nav links
+ */
+nav a:visited{
+    color: white;
+    background-color: inherit;
+}
+
+/*
+    Unvisited nav links
+ */
+nav a:link{
+    color: white;
+    background-color: inherit;
+}
+
+/*
+    Anchor elements in nav
+ */
+nav a{
+    text-decoration: none; /*removes underline*/
+}
+
+/*
+    Subheadings
+ */
+h2{
+    font-family: "Helvetica", sans-serif;
+    color: midnightblue;
+    background-color: inherit;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+}
+
+/*
+    All tables
+ */
+table{
+    width: 500px;
+    margin: auto;
+    padding-top: 0;
+}
+
+/*
+    Table Headings
+ */
+th{
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+/*
+    Summary statistics table
+ */
+#stats{
+    padding-top: 20px;
+    margin-bottom: 50px;
+    width: 800px;
+}
+
+/*
+    Rows in summary stats table
+ */
+#stats tr{
+    text-align:left;
+}
+
+/*
+    Map interface
+ */
+#mapid{
+    margin:auto; /*centers map in window*/
+}
+
+/*
+    Total row table header
+ */
+#total{
+   border-bottom: none;
+}
+
+/*
+    Form input elements
+ */
+input{
+    width: 200px;
+}
+
+/*
+    Form input labels
+ */
+label {
+    width:200px;
+    display: inline-block;
+}
+
+/*
+    Form fields
+ */
+fieldset{
+    border: none; /*removes fieldset borders*/
+}
+
+/*
+    Fieldset legends
+ */
+legend{
+    display: none;/*hide fieldset legends*/
+}
+
+/*
+    Form elements
+ */
+form{
+    width: 800px;
+    margin: auto; /*centered with width of 800px*/
+    border: solid black 1px;
+
+}
+
+/*
+    List which displays form error messages
+ */
+#formErrors{
+    width:800px;
+    margin:auto;
+    font-style: italic;
+}

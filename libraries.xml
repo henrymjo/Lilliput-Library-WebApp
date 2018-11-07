@@ -1,0 +1,236 @@
+<libraries>
+  <library>
+    <info>
+      <lat>-45.8990177</lat>
+      <lng>170.5325523</lng>
+      <address> 21 Hunt St, Andersons Bay</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>1</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.7776143</lat>
+      <lng>170.7039126</lng>
+      <address> 1 Muri St, Aramoana</address>
+      <capacity>10</capacity>
+    </info>
+
+    <id>2</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.885426</lat>
+      <lng>170.4957545</lng>
+      <address> 29 Lees St, Dunedin Central</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>3</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.8981267</lat>
+      <lng>170.5061221</lng>
+      <address> 17 Cashel St, South Dunedin</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>4</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.8972875</lat>
+      <lng>170.5339259</lng>
+      <address> 44 Merchiston St, Andersons Bay</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>5</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.8956423</lat>
+      <lng>170.5264766</lng>
+      <address> 218 Musselburgh Rise, Andersons Bay</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>6</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.8854817</lat>
+      <lng>170.542786</lng>
+      <address> 217 Somerville St, Shiel Hill</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>7</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.8989727</lat>
+      <lng>170.4696062</lng>
+      <address> 51 Waimea Ave, Calton Hill</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>8</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.8769538</lat>
+      <lng>170.4781968</lng>
+      <address> 32 Rosebery St, Belleknowes</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>9</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.8477814</lat>
+      <lng>170.6237024</lng>
+      <address> 68 Greig St, Broad Bay</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>10</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.898397</lat>
+      <lng>170.4817256</lng>
+      <address> 51A Thorn St, Caversham</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>11</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.8851338</lat>
+      <lng>170.3552494</lng>
+      <address> 11 Brookside Pl, Mosgiel</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>12</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.8739108</lat>
+      <lng>170.3475849</lng>
+      <address>Upstairs, cnr Gordon and Bush Rds, Mosgiel (Spruce Design)</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>13</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.848908</lat>
+      <lng>170.530237</lng>
+      <address>North East Valley Normal School (the Fridge)</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>14</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.8467772</lat>
+      <lng>170.538121</lng>
+      <address>22 Montague St, North East Valley</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>15</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.8627134</lat>
+      <lng>170.481644</lng>
+      <address> 4 Pennant St, Kaikorai</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>16</id>
+  </library>
+  <library>
+    <info>
+      <lat>-45.819828</lat>
+      <lng>170.6004578</lng>
+      <address> Sawyers Bay School, 99 Stevenson Ave</address>
+      <capacity>10</capacity>
+    </info>
+    <books><!-- ==1 instance of books per library -->
+      <book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+      <book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+      <book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+    </books>
+    <id>17</id>
+  </library>
+</libraries>

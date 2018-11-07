@@ -1,0 +1,1096 @@
+<libraries>
+	<library>
+		<info>
+			<lat>-45.8990177</lat>
+			<lng>170.5325523</lng>
+			<address>LL01 - 21 Hunt St, Andersons Bay
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>1</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.7776143</lat>
+			<lng>170.7039126</lng>
+			<address>LL02 - 1 Muri St, Aramoana
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>2</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.885426</lat>
+			<lng>170.4957545</lng>
+			<address>LL03 - 29 Lees St, Dunedin Central
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>3</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8981267</lat>
+			<lng>170.5061221</lng>
+			<address>LL04 - 17 Cashel St, South Dunedin
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>4</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8972875</lat>
+			<lng>170.5339259</lng>
+			<address>LL05 - 44 Merchiston St, Andersons Bay
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>5</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8956423</lat>
+			<lng>170.5264766</lng>
+			<address>LL06 - 218 Musselburgh Rise, Andersons Bay
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>6</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8854817</lat>
+			<lng>170.542786</lng>
+			<address>LL07 - 217 Somerville St, Shiel Hill
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>7</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8989727</lat>
+			<lng>170.4696062</lng>
+			<address>LL08 - 51 Waimea Ave, Calton Hill
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>8</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8769538</lat>
+			<lng>170.4781968</lng>
+			<address>LL09 - 32 Rosebery St, Belleknowes
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>9</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8477814</lat>
+			<lng>170.6237024</lng>
+			<address>LL10 - 68 Greig St, Broad Bay
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>10</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.898397</lat>
+			<lng>170.4817256</lng>
+			<address>LL11 - 51A Thorn St, Caversham
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>11</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8851338</lat>
+			<lng>170.3552494</lng>
+			<address>LL12 - 11 Brookside Pl, Mosgiel
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books><!-- ==1 instance of books per library -->
+			<book><title>The Wind in the Willows</title><author>Kenneth Grahame</author><year>1908</year></book>
+			<book><title>Wuthering Heights</title><author>Emily Brontë</author><year>1847</year></book>
+			<book><title>Alice's Adventures In Wonderland</title><author>Lewis Carroll</author><year>1865</year></book>
+		</books>
+		<id>12</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8739108</lat>
+			<lng>170.3475849</lng>
+			<address>LL13 - upstairs, cnr Gordon &amp; Bush Rds, Mosgiel (Spruce Design)
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>13</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.848908</lat>
+			<lng>170.530237</lng>
+			<address>LL14 - North East Valley Normal School (the Fridge)
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>14</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8467772</lat>
+			<lng>170.538121</lng>
+			<address>LL15 - 22 Montague St, North East Valley
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>15</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8627134</lat>
+			<lng>170.481644</lng>
+			<address>LL16 - 4 Pennant St, Kaikorai
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>16</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.819828</lat>
+			<lng>170.6004578</lng>
+			<address>LL17 - Sawyers Bay School, 99 Stevenson Ave</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>17</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9232991</lat>
+			<lng>170.4025686</lng>
+			<address>LL18 - 21 Delta Dr, Waldronville (on side wall of garden in the Brighton/Delta walkway)</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>18</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8567413</lat>
+			<lng>170.5279799</lng>
+			<address>LL19 - 14 Signal Hill Rd, Opoho
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>19</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9236155</lat>
+			<lng>170.3989256</lng>
+			<address>LL20 - 381 Brighton Rd, Waldronville
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>20</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8690285</lat>
+			<lng>170.5979152</lng>
+			<address>LL21 - opp Bay Cafe, Portobello Rd, Macandrew Bay
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>21</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8086238</lat>
+			<lng>170.6206492</lng>
+			<address>LL22 - 30 Harbour Terrace, Careys Bay
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>22</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8828721</lat>
+			<lng>170.5368781</lng>
+			<address>LL23 - 40 Scobie Rd, Waverley
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>23</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8648586</lat>
+			<lng>170.4558692</lng>
+			<address>LL24 - 61 Caldwell St, Brockville
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>24</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8162805</lat>
+			<lng>170.6238929</lng>
+			<address>LL25 - 7 Scotia St, Port Chalmers
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>25</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8469163</lat>
+			<lng>170.5137651</lng>
+			<address>LL26 - 8 Hillary St, Liberton
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>26</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8618168</lat>
+			<lng>170.5981045</lng>
+			<address>LL27 - 7 Bayne Terrace, Macandrew Bay
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>27</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8978375</lat>
+			<lng>170.5275402</lng>
+			<address>LL28 - 51 Bayfield Rd, Andersons Bay
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>28</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8737935</lat>
+			<lng>170.4940409</lng>
+			<address>LL29 - 373 Rattray St, Dunedin Central
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>29</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8543267</lat>
+			<lng>170.4635957</lng>
+			<address>LL30 - 457 Taieri Rd, Halfway Bush
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>30</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.900717</lat>
+			<lng>170.497777</lng>
+			<address>LL31 - 243 Oxford St, South Dunedin
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>31</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9044028</lat>
+			<lng>170.4952674</lng>
+			<address>LL32 - 32 Hargest Cres, St Kilda
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>32</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8674971</lat>
+			<lng>170.5203498</lng>
+			<address>LL33 - 145 Union St East, Dunedin Central
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>33</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8584402</lat>
+			<lng>170.5176978</lng>
+			<address>LL34 - Marsh Study Centre, 697 Castle St, North Dunedin
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>34</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8662517</lat>
+			<lng>170.4924078</lng>
+			<address>LL35 - 11 Selkirk St, Roslyn
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>35</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8618245</lat>
+			<lng>170.497759</lng>
+			<address>LL36 - 71 Newington Ave, Maori Hill
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>36</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.820656</lat>
+			<lng>170.617425</lng>
+			<address>LL37 - Port Chalmers School, 30 Albertson Ave
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>37</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8462675</lat>
+			<lng>170.5788663</lng>
+			<address>LL38 - St Leonards School</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>38</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8535743</lat>
+			<lng>170.4784648</lng>
+			<address>LL39 - 76 Centennial Ave, Helensburgh
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>39</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9160174</lat>
+			<lng>170.2673215</lng>
+			<address>LL40 - Allanton Community Hall, 11 Grey St</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>40</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9445901</lat>
+			<lng>170.3364112</lng>
+			<address>LL41 - 2 Scroggs Hill Rd, Brighton
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>41</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8917236</lat>
+			<lng>170.4657339</lng>
+			<address>LL42 - 93 Mornington Rd, Kenmure
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>42</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9029249</lat>
+			<lng>170.5535534</lng>
+			<address>LL43 - 47 Oregon St, Ocean Grove
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>43</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9058085</lat>
+			<lng>170.4211933</lng>
+			<address>LL44 - 18A Brighton Rd, Green Island
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>44</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9026411</lat>
+			<lng>170.4326534</lng>
+			<address>LL45 - 3 Church St, Green Island
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>45</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8583264</lat>
+			<lng>170.4869652</lng>
+			<address>LL46 - 31 Craighall Cres, Wakari
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>46</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8434913</lat>
+			<lng>170.6443917</lng>
+			<address>LL47 - 45 Seaton Rd, Portobello
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>47</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9026371</lat>
+			<lng>170.5117329</lng>
+			<address>LL48 - 15A Marlow St, St Kilda
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>48</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8658505</lat>
+			<lng>170.5558445</lng>
+			<address>LL49 - 251 Ravensbourne Rd (access via Wanaka St)
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>49</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.914459</lat>
+			<lng>170.4856635</lng>
+			<address>LL50 - 116 Norfolk St, St Clair
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>50</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8970814</lat>
+			<lng>170.4894453</lng>
+			<address>LL51 - 469 Hillside Rd, Caversham (on window ledge in Helena St)
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>51</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8674884</lat>
+			<lng>170.5988809</lng>
+			<address>LL52 - 13 Wharfdale St, Macandrew Bay
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>52</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9471123</lat>
+			<lng>170.3315036</lng>
+			<address>LL53 - 1020 Brighton Rd, Brighton
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>53</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8934074</lat>
+			<lng>170.3995046</lng>
+			<address>LL54 - 35 Flower St, Fairfield
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>54</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8988199</lat>
+			<lng>170.4315611</lng>
+			<address>LL55 - 17 John St, Abbotsford
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>55</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8643679</lat>
+			<lng>170.5492593</lng>
+			<address>LL56 - 12 Monowai Rd, Ravensbourne
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>56</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8671989</lat>
+			<lng>170.4967245</lng>
+			<address>LL57 - 1 Avon St, Roslyn
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>57</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8637366</lat>
+			<lng>170.4799031</lng>
+			<address>LL58 - 61 County Rd, Kaikorai</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>58</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8920181</lat>
+			<lng>170.3568211</lng>
+			<address>LL59 - 1 Kinmont Cres, Kinmont Park
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>59</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8659433</lat>
+			<lng>170.3682639</lng>
+			<address>LL60 - 167 Wingatui Rd, Mosgiel
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>60</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.7083552</lat>
+			<lng>170.5905989</lng>
+			<address>LL61 - 3 Perry St, Warrington
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>61</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.7491149</lat>
+			<lng>170.572003</lng>
+			<address>LL62 - 28 Brown St, Waitati
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>62</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.86291</lat>
+			<lng>170.5631369</lng>
+			<address>LL63 - 5 Jessie St, Maia
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>63</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8539497</lat>
+			<lng>170.5316988</lng>
+			<address>LL65 - 82 Signal Hill Rd, Opoho
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>65</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9048883</lat>
+			<lng>170.4361252</lng>
+			<address>LL66 - 21 Edinburgh St, Green Island
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>66</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8806885</lat>
+			<lng>170.5356453</lng>
+			<address>LL67 - 137 Doon St, Waverley
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>67</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9070362</lat>
+			<lng>170.4842159</lng>
+			<address>LL68 - 34 Allandale Rd, St Clair
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>68</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.869057</lat>
+			<lng>170.508161</lng>
+			<address>LL69 - Queen Mary Maternity Centre
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>69</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9013011</lat>
+			<lng>170.5226291</lng>
+			<address>LL70 - 19 Magdala St, Tainui
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>70</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8219791</lat>
+			<lng>170.6706387</lng>
+			<address>LL71 - 18 Tidewater Dr, Harwood
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>71</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.879393</lat>
+			<lng>170.4933662</lng>
+			<address>LL72 - 45 Sutherland St, Dunedin Central
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>72</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8811666</lat>
+			<lng>170.4875993</lng>
+			<address>LL73 - 7 Montpellier St, Mornington
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>73</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8597633</lat>
+			<lng>170.229658</lng>
+			<address>LL74 - 19 Hoylake St, Outram
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>74</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8935642</lat>
+			<lng>170.5296661</lng>
+			<address>LL75 - 9 Sunbury St, Andersons Bay
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>75</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8491084</lat>
+			<lng>170.5344349</lng>
+			<address>LL77 - 33 Baldwin St, North East Valley
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>77</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9001779</lat>
+			<lng>170.4830205</lng>
+			<address>LL78 - 16 Easther Cres, Kew
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>78</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.7542793</lat>
+			<lng>170.6454879</lng>
+			<address>LL79 - 36 Beach Rd, Long Beach
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>79</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8714028</lat>
+			<lng>170.4855386</lng>
+			<address>LL80 - 22 Ross St, Roslyn
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>80</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9097349</lat>
+			<lng>170.4914989</lng>
+			<address>LL81 - 62 Albert St, St Clair
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>81</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8396084</lat>
+			<lng>170.6522226</lng>
+			<address>LL82 - cnr Harington Point Rd &amp; Allens Beach Rd, Portobello
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>82</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8717537</lat>
+			<lng>170.4709584</lng>
+			<address>LL83 - 24 St Albans St, Bradford
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>83</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8878021</lat>
+			<lng>170.5418954</lng>
+			<address>LL84 - 227 Highcliff Rd, Shiel Hill
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>84</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8480617</lat>
+			<lng>170.5190252</lng>
+			<address>LL86 - 34 Hislop St, Pine Hill
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>86</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9060597</lat>
+			<lng>170.4841384</lng>
+			<address>LL87 - 17 Seaview Tce, Kew
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>87</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8692101</lat>
+			<lng>170.3549624</lng>
+			<address>LL88 - 63 Stirling Cres, Mosgiel
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>88</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.865948</lat>
+			<lng>170.4960603</lng>
+			<address>LL90 - 12 Melrose St, Roslyn
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>90</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8503021</lat>
+			<lng>170.5098806</lng>
+			<address>LL91 - 186 Pine Hill Rd, Dalmore
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>91</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8157946</lat>
+			<lng>170.6754975</lng>
+			<address>LL92 - 64 Harwood St, Harwood
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>92</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.849747</lat>
+			<lng>170.4818569</lng>
+			<address>LL93 - 178 Wakari Rd, Helensburgh
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>93</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8672999</lat>
+			<lng>170.5075876</lng>
+			<address>LL94 - Governors Cafe, 438 George St</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>94</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.9033792</lat>
+			<lng>170.5157776</lng>
+			<address>LL95 - 15 Auld St, Tainui</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>95</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8815967</lat>
+			<lng>170.3525111</lng>
+			<address>LL96 - Chestnut Villa, 41 Gordon Road, Mosgiel</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>96</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.899076</lat>
+			<lng>170.4952428</lng>
+			<address>LL97 - Rachel Reynolds Kindergarten, 175 Macandrew Rd</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>97</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.92489</lat>
+			<lng>170.3995441</lng>
+			<address>LL98 - 3 Canberra Pl, Waldronville</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>98</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8670065</lat>
+			<lng>170.505759</lng>
+			<address>LL99- 7 Elder St, City
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>99</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8687436</lat>
+			<lng>170.3415263</lng>
+			<address>LL100 - behind Eden St, Mosgiel
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>100</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8835253</lat>
+			<lng>170.5317473</lng>
+			<address>LL101 - 6 Kenilworth St, Waverley
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>101</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8563443</lat>
+			<lng>170.4984578</lng>
+			<address>LL102 - 49A Balmacewen Rd, Maori Hill
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>102</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.8696924</lat>
+			<lng>170.4972339</lng>
+			<address>LL103 - Flippers Early Learning Centre at Moana Pool, Queens Dr, City
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>103</id>
+	</library>
+	<library>
+		<info>
+			<lat>-45.863651</lat>
+			<lng>170.4950544</lng>
+			<address>LL104 - 8 Pacific St, Roslyn
+</address>
+			<capacity>10</capacity>
+		</info>
+		<books/>
+		<id>104</id>
+	</library>
+</libraries>
